@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="personal banner-figma.png" alt="my banner" style="pointer-events:none;">
+  <img src="https://github.com/ymamdouh80/ymamdouh80/blob/main/personal%20banner-figma.png" alt="my banner" style="pointer-events:none;">
 </p>
 
 
