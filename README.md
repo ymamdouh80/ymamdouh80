@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?id=15N0h5HKgKnV2YpJhbyXYJ7RSfsK84guD" height="320px" alt="My Banner">
+</p>
+
+
 # 💫 About Me:
 I'm currently learning the basics of LLM with Oracle University.<br>I'm looking to collaborate on basic ML models.<br>I'm looking for help with refine the ML model's accuracy.<br>Fun fact "Not all you see is True"
 
