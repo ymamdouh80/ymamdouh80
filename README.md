@@ -1,4 +1,4 @@
-![GitHub Banner PNG](https://raw.githubusercontent.com/ymamdouh80/ymamdouh80/c0d3225283b43a5442b20d57574aafc3033d2bac/Desktop%20-%201.svg)
+![GitHub Banner PNG](https://github.com/ymamdouh80/ymamdouh80/blob/main/personal%20banner-figma.png?raw=true)
 
 
 
