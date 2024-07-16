@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://github.com/ymamdouh80/ymamdouh80/blob/main/personal%20banner-figma.png" alt="my banner" style="pointer-events: none;">
+  <img src="https://drive.googleusercontent.com/uc?id=1d8Bcop3nM1e5btAVeTnkqDCuRkdLLfAw" alt="my banner" style="pointer-events: none;">
 </p>
-
-<!--![GitHub Banner PNG](https://github.com/ymamdouh80/ymamdouh80/blob/main/personal%20banner-figma.png?raw=true)
--->
 
 
 
