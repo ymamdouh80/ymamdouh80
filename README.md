@@ -1,5 +1,9 @@
-![GitHub Banner PNG](https://github.com/ymamdouh80/ymamdouh80/blob/main/personal%20banner-figma.png?raw=true)
+<p align="center">
+  <img src="https://github.com/ymamdouh80/ymamdouh80/blob/main/personal%20banner-figma.png" alt="my banner">
+</p>
 
+<!--![GitHub Banner PNG](https://github.com/ymamdouh80/ymamdouh80/blob/main/personal%20banner-figma.png?raw=true)
+-->
 
 
 
