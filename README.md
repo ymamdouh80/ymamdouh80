@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://drive.google.com/uc?id=15N0h5HKgKnV2YpJhbyXYJ7RSfsK84guD" height="320px" alt="My Banner">
-</p>
+![GitHub Banner PNG](https://raw.githubusercontent.com/ymamdouh80/ymamdouh80/c0d3225283b43a5442b20d57574aafc3033d2bac/Desktop%20-%201.svg)
+
+
 
 
 # 💫 About Me:
